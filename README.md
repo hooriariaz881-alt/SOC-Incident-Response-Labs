@@ -21,3 +21,7 @@ This is my hands-on incident investigation portfolio where I will provide my pra
   4. Confirmed Sysmon Event ID 22 (DNS Query) for `validation.nexoratech.com`.
 
 - Conclusion: The alert is considered a false positive as `eicar.com` is a commonly used benign test file to validate the security controls.
+
+<img width="944" height="425" alt="Screenshot 2026-10-12 122504" src="https://github.com/user-attachments/assets/b93e4031-46bc-47a8-b487-aebd6f15f397" />
+<img width="608" height="293" alt="Screenshot 2026-10-12 122041" src="https://github.com/user-attachments/assets/dd0f7c63-9565-43c1-97e0-8fb906509c07" />
+
